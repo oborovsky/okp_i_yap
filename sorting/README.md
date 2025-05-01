@@ -30,7 +30,7 @@
 - память: O(1)
 - неустоичивая сортировка
 
-![selection sort example](images/Selection-Sort-Animation.gif)
+![](images/Selection-Sort-Animation.gif)
 
 ##### *[Сортировка вставками](insert_sort.py)*
 
@@ -44,7 +44,7 @@
 - память: O(1)
 - устоичивая сортировка
 
-![insertion sort example](images/Insertion-sort-example-300px.gif)
+![](images/Insertion-sort-example-300px.gif)
 
 ##### *[Сортировка слиянием](merge_sort.py)*
 
@@ -62,3 +62,5 @@
   файловые потоки)
   
 ![merge sort example](images/Merge-sort-example-300px.gif)
+
+![insert](images/Insertion-sort-example-300px.gif)
