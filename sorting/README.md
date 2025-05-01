@@ -62,5 +62,3 @@
   файловые потоки)
   
 ![merge sort example](images/Merge-sort-example-300px.gif)
-
-![insert](images/Insertion-sort-example-300px.gif)
