@@ -30,6 +30,8 @@
 - память: O(1)
 - неустоичивая сортировка
 
+![selection sort example](images/Selection-Sort-Animation.gif)
+
 ##### *[Сортировка вставками](insert_sort.py)*
 
 Элементы входной последовательности
@@ -41,6 +43,8 @@
 - быстродействие: O(N^2)
 - память: O(1)
 - устоичивая сортировка
+
+![insertion sort example](images/Insertion-sort-example-300px.gif)
 
 ##### *[Сортировка слиянием](merge_sort.py)*
 
