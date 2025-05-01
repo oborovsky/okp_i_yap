@@ -57,3 +57,4 @@
   последовательного доступа, например,
   файловые потоки)
   
+![merge sort example](images/Merge-sort-example-300px.gif)
