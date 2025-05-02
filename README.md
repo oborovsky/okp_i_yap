@@ -5,3 +5,4 @@
 - **[сортировка слиянием](sorting/merge_sort.py)**
 - **[сортировка вставками](sorting/insert_sort.py)**
 - **[сортировка выбором](sorting/select_sort.py)**
+- **[сортировка Шелла](sorting/shell_sort.py)**
