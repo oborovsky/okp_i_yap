@@ -25,7 +25,7 @@
 [1, 2, 2, 6, 7, 8]
 """
 
-def select_sort(arr):
+def select_sort(arr_):
     """Сортировка выбором.
     
     >>> select_sort([])
@@ -35,6 +35,8 @@ def select_sort(arr):
     >>> select_sort([4, 2, 3, 8, 6, 7])
     [2, 3, 4, 6, 7, 8]
     """
+    
+    arr = arr_.copy()
     n = len(arr)
     for i in range(n):
         i_min = i

@@ -22,7 +22,7 @@
 [2, 3, 4, 7, 9, 10]
 """
 
-def insert_sort(arr):
+def insert_sort(arr_):
     """Сортировка вставками.
     
     >>> insert_sort([])
@@ -32,6 +32,7 @@ def insert_sort(arr):
     >>> insert_sort([5, 6, 5, 7, 1, 2])
     [1, 2, 5, 5, 6, 7]
     """
+    arr = arr_.copy()
     
     for i in range(len(arr)):
         cur = arr[i]
